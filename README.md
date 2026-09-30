@@ -2,7 +2,7 @@
 
 Revue visuelle des flux de réservation. Ceci est une preuve, pas l’autorité produit.
 
-- Checkpoint Keeviv : `a348f8307ac3aedf0cf8cc5b039de6d0ab50f711`
+- Checkpoint Keeviv : `b0ad9818d425d846ec768c3101c2660c5a5bd24b`
 - Base acceptée : `4d162dca8078018dabf250371243476d6952a87a`
 - État : données de démonstration, Studio Nord, Camille Martin, Léa Martin
 - Aucun secret, aucun membre réel
@@ -70,6 +70,8 @@ Revue visuelle des flux de réservation. Ceci est une preuve, pas l’autorité 
 ## Mobile — liste d’attente
 
 ### Offre sur l’accueil
+
+L’échéance s’écrit en français, à partir de l’instant d’autorité.
 ![Offre et attente sur l’accueil](images/mobile-offer-iphone.png)
 
 ### Offre dans Réservations
